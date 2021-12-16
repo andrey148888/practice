@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1350d2aa-b5e9-4297-9501-97fc6c46e2e4": {
+      "ProjectGuid": "1350d2aa-b5e9-4297-9501-97fc6c46e2e4",
+      "DisplayName": "pr 3 kazak 01.01",
+      "ColorIndex": 0
+    },
+    "e9846ffb-dc92-4d3f-bf62-0c464a78305f": {
+      "ProjectGuid": "e9846ffb-dc92-4d3f-bf62-0c464a78305f",
+      "DisplayName": "Lib_7",
+      "ColorIndex": 1
+    },
+    "d2abb2ad-157f-4a95-a34d-3e71e5817c0e": {
+      "ProjectGuid": "d2abb2ad-157f-4a95-a34d-3e71e5817c0e",
+      "DisplayName": "LibMatrix",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

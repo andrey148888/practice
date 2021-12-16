@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be8c4172-66fb-4373-a9d4-474268ec93fe": {
+      "ProjectGuid": "be8c4172-66fb-4373-a9d4-474268ec93fe",
+      "DisplayName": "pr 2 kazakov 01.01",
+      "ColorIndex": 0
+    },
+    "80b0a7a2-f8f0-4140-b21d-0aaee8add573": {
+      "ProjectGuid": "80b0a7a2-f8f0-4140-b21d-0aaee8add573",
+      "DisplayName": "LibMas",
+      "ColorIndex": 1
+    },
+    "5e15399e-f633-43e2-87d2-3da05d39bd12": {
+      "ProjectGuid": "5e15399e-f633-43e2-87d2-3da05d39bd12",
+      "DisplayName": "Lib_7",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

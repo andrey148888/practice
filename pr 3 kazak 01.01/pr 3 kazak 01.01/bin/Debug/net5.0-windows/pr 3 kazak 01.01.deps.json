@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pr 3 kazak 01.01/1.0.0": {
+        "dependencies": {
+          "LibMatrix": "1.0.0",
+          "Lib_7": "1.0.0"
+        },
+        "runtime": {
+          "pr 3 kazak 01.01.dll": {}
+        }
+      },
+      "LibMatrix/1.0.0": {
+        "runtime": {
+          "LibMatrix.dll": {}
+        }
+      },
+      "Lib_7/1.0.0": {
+        "runtime": {
+          "Lib_7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr 3 kazak 01.01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
